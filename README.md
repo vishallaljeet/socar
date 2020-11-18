@@ -1,5 +1,3 @@
-nginx image.
-
 # socar test
 Launch server and database instances:
 a. Launch EC2 instances
